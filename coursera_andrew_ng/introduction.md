@@ -33,3 +33,22 @@ ex. Is the turmor Malignant or not?
 Feature - 
 
 Number of the features   
+
+# Unsupervised learning
+
+Here's some data. I don't know what in it. Can you find some structure?
+
+ex. clustering - group into types
+
+market segmetation
+social network analysis
+astronomical data analysis
+
+### cocktail party problem
+
+cocktail party algorithm -> there seems to have two audio sources -> separate them
+
+
+
+
+
