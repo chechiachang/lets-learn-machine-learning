@@ -49,6 +49,7 @@ astronomical data analysis
 cocktail party algorithm -> there seems to have two audio sources -> separate them
 
 
+Take a collection of 1,000,00 genes, find a way to automatically group the data.
 
 
 
